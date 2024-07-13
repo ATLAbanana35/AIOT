@@ -1,0 +1,8 @@
+{
+  "api_key": "your_homeassistant_api_key",
+  "api_url": "https://your_homeassistant_api_url.local",
+  "log_file": "logs.txt",
+  "log_level": "DEBUG",
+  "port": "1341",
+  "language": "English"
+}

@@ -1,0 +1,9 @@
+# Created by https://www.toptal.com/developers/gitignore/api/pythonvanilla
+# Edit at https://www.toptal.com/developers/gitignore?templates=pythonvanilla
+
+### PythonVanilla ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# End of https://www.toptal.com/developers/gitignore/api/pythonvanilla
+config.json

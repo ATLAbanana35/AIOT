@@ -1,0 +1,1 @@
+light.ecran_lyam (Écran lyam): off, next: sun.sun (Sun): above_horizon
